@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="7_srp:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/7_srp_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="7_srp/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="7_srp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.27" />
+        </element>
+        <element id="file-copy" path="$PROJECT_DIR$/7_srp/WEB-INF/myTag.tld" />
+      </element>
+    </root>
+  </artifact>
+</component>

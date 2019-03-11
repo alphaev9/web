@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_servlet/1_servlet.iml" filepath="$PROJECT_DIR$/1_servlet/1_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_db/2_db.iml" filepath="$PROJECT_DIR$/2_db/2_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_jsp/3_jsp.iml" filepath="$PROJECT_DIR$/3_jsp/3_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_view/4_view.iml" filepath="$PROJECT_DIR$/4_view/4_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_envolution/5_envolution.iml" filepath="$PROJECT_DIR$/5_envolution/5_envolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_customTag/6_customTag.iml" filepath="$PROJECT_DIR$/6_customTag/6_customTag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_srp/7_srp.iml" filepath="$PROJECT_DIR$/7_srp/7_srp.iml" />
+    </modules>
+  </component>
+</project>
